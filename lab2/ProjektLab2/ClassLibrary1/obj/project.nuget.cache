@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IvpxdJyRCh8jog1mmJEpge/XR8nyOLSsFGSaZPgVZSI6uuz1lIHfLDFKDllNlPYojcJL5Jw+qAGqOCZXvF3LHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rafal\\OneDrive\\Desktop\\studia\\2 semestr\\C#_i_platforma_.NET\\lab2\\ProjektLab2\\ClassLibrary1\\ClassLibrary1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafal\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\rafal\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
