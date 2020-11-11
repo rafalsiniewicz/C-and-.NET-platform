@@ -232,6 +232,7 @@ namespace ConsoleApp1
             Console.WriteLine("Write some char:");
             char c;
             c = Console.ReadKey().KeyChar;
+            Console.WriteLine("");
             if ("aeiouAEIOU".IndexOf(c) >= 0)
             {
                 Console.WriteLine("Char is vowel");
