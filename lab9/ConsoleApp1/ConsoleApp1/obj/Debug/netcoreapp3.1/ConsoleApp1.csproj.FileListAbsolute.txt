@@ -1,0 +1,13 @@
+C:\Users\rafal\OneDrive\Desktop\studia\2 semestr\C#_i_platforma_.NET\lab9\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\rafal\OneDrive\Desktop\studia\2 semestr\C#_i_platforma_.NET\lab9\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\rafal\OneDrive\Desktop\studia\2 semestr\C#_i_platforma_.NET\lab9\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\rafal\OneDrive\Desktop\studia\2 semestr\C#_i_platforma_.NET\lab9\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\rafal\OneDrive\Desktop\studia\2 semestr\C#_i_platforma_.NET\lab9\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\rafal\OneDrive\Desktop\studia\2 semestr\C#_i_platforma_.NET\lab9\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\rafal\OneDrive\Desktop\studia\2 semestr\C#_i_platforma_.NET\lab9\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\rafal\OneDrive\Desktop\studia\2 semestr\C#_i_platforma_.NET\lab9\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\rafal\OneDrive\Desktop\studia\2 semestr\C#_i_platforma_.NET\lab9\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\rafal\OneDrive\Desktop\studia\2 semestr\C#_i_platforma_.NET\lab9\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\rafal\OneDrive\Desktop\studia\2 semestr\C#_i_platforma_.NET\lab9\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\rafal\OneDrive\Desktop\studia\2 semestr\C#_i_platforma_.NET\lab9\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\rafal\OneDrive\Desktop\studia\2 semestr\C#_i_platforma_.NET\lab9\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
